@@ -1,0 +1,13 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"eid": {
+			"name": "eid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "eid",
+			"order": 0
+		}
+	}
+}

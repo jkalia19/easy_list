@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"eid": {
+			"name": "eid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "eid",
+			"order": 0
+		},
+		"udata": {
+			"name": "udata",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "udata",
+			"order": 1
+		}
+	}
+}
